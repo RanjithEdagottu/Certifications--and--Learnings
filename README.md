@@ -31,6 +31,28 @@ Welcome to my professional learning portfolio. I am continuously developing my s
 - **Completed badges:** 
 
 
+## Salesforce Trailhead Learning
+
+My Salesforce Trailhead learning includes CRM analytics, Agentforce, Tableau, AI/ML, and Agile practices.
+
+| Achievement | Platform |
+|---|---|
+| Agentforce Financial Services Quick Look | Salesforce Trailhead |
+| Tableau Agent in Tableau Next Quick Look | Salesforce Trailhead |
+| Google Cloud AI/ML | Salesforce Trailhead |
+| CRM Analytics Quick Look | Salesforce Trailhead |
+| Testing Types & Agile Testing Quadrants | Salesforce Trailhead |
+| Scrum and Kanban | Salesforce Trailhead |
+| Salesforce Agile Basics | Salesforce Trailhead |
+| Customer Data for Marketers | Salesforce Trailhead |
+| Google Analytics | Salesforce Trailhead |
+| Marketing Analytics | Salesforce Trailhead |
+
+**Trailblazer Profile:** [View My Salesforce Profile](https://www.salesforce.com/trailblazer/f9bbmt6ir7xkupndvm)
+
+
+
+
 ## Skills I'm Developing
 
 - SQL and Python
