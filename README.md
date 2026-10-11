@@ -17,7 +17,7 @@ Welcome to my professional learning portfolio. I am continuously developing my s
 - **Platform:** LinkedIn Learning
 - **Instructor:** Baraa Khatib Salkini
 - **Status:** Completed
-- **Credential:** [file:///C:/Users/Ranjith/Downloads/CertificateOfCompletion_Databricks%20for%20Data%20Analysts.pdf]
+- **Credential:** [file:///C:/Users/Ranjith/Downloads/CertificateOfCompletion_Databricks%20for%20Data%20Analysts.pdf ]
 
 ## 3. Cloud Computing — Microsoft Azure
 
