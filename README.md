@@ -23,7 +23,7 @@ Welcome to my professional learning portfolio. I am continuously developing my s
 
 - **Platform:** Microsoft Learn
 - **Status:** Learning in progress
-- **Completed modules:** 
+- **Completed modules:**  
 
 ## 4. Artificial Intelligence — Salesforce Agentblazers
 
