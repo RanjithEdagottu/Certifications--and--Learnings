@@ -21,8 +21,23 @@ Welcome to my professional learning portfolio. I am continuously developing my s
 ## 3. Cloud Computing — Microsoft Azure
 
 - **Platform:** Microsoft Learn
-- **Status:** Learning in progress
-- **Completed modules:**  
+
+## Microsoft Learn — Azure Fundamentals
+
+**Platform:** Microsoft Learn  
+**Focus:** Azure cloud concepts, architecture, services, and management  
+**Status:** Completed the three Azure fundamentals learning areas
+
+### Key Topics Covered
+- Cloud computing concepts and service types
+- Azure architecture, compute, storage, and networking
+- Identity, access, and security
+- Monitoring, resource management, and deployment
+- Governance, compliance, and cost management
+
+### Achievements
+Completed 12 Microsoft Learn module assessments.
+
 
 ## 4. Artificial Intelligence — Salesforce Agentblazers
 
